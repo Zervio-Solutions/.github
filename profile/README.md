@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/zervio-logo-banner.png" alt="Zervio Solutions" width="100%" />
+</p>
+
 # Zervio Solutions
 
 Fast, reliable infrastructure for game servers, web hosting, automation, and customer operations.
